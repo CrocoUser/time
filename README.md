@@ -7,11 +7,9 @@ Before launching, do:
 
 pip install colorama
 
-Command Line Options:
-time-updated.py - Standard mode. Show time in Europe and Russia
-
-time-updated.py Europe - Show only the time in Europe
-
+Command Line Options:\n
+time-updated.py - Standard mode. Show time in Europe and Russia\n
+time-updated.py Europe - Show only the time in Europe\n
 time-updated.py Russia - Show only the time in Russia
 
 
