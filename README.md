@@ -3,9 +3,11 @@ A program for displaying time in the time zones of Europe and Russia. The code i
 
 time.py OUTDATED
 
+
 Before launching, do:
 
 pip install colorama
+
 
 Command Line Options:
 
